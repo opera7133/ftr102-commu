@@ -1,0 +1,7 @@
+pyserial
+flet
+pykakasi
+setuptools
+jaconv
+numpy
+pyaudio
